@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DictionaryApp</string>
+    <string name="can_not_get_result">Can\'t get result</string>
+    <string name="search_word">Search word</string>
+    <string name="search">Search...</string>
+    <string name="definition">Definition:</string>
+    <string name="example">Example:  </string>
+</resources>
